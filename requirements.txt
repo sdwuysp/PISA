@@ -1,0 +1,7 @@
+torch>=1.12.1
+torchaudio
+torchvision
+tqdm
+opencv-python
+pyiqa
+timm

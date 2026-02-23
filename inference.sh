@@ -1,0 +1,1 @@
+python inference.py  --input examples  --output result
